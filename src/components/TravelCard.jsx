@@ -14,7 +14,7 @@ const TravelCard = (props) => {
             alt="location-icon"
           />
           <h3 className="card--location--country">{country}</h3>
-          <a className="location-map" href={googleMap}>
+          <a className="location-map" href={googleMap} target="_blank">
             View on Google Map
           </a>
         </div>

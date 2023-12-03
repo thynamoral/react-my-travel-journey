@@ -2,7 +2,7 @@ export default [
   {
     img: "/images/changi-airport.JPG",
     country: "Singapore",
-    googleMap: "",
+    googleMap: "https://maps.app.goo.gl/WMbCgUdFN1abTmsn9",
     place: "Changi Airport",
     startDate: "18 Nov 2023",
     endDate: "18 Nov 2023",
@@ -12,7 +12,7 @@ export default [
   {
     img: "/images/twin-tower.JPG",
     country: "Malaysia",
-    googleMap: "",
+    googleMap: "https://maps.app.goo.gl/gaC2qqepuUskndRW9",
     place: "Petronas Towers Kuala Lumpur",
     startDate: "19 Nov 2023",
     endDate: "19 Nov 2023",
@@ -22,7 +22,7 @@ export default [
   {
     img: "/images/with-friend.JPG",
     country: "Malaysia",
-    googleMap: "",
+    googleMap: "https://maps.app.goo.gl/sB5mT18QsQdAReyG7",
     place: "Johor Bahru",
     startDate: "18 Nov 2023",
     endDate: "18 Nov 2023",
@@ -32,7 +32,7 @@ export default [
   {
     img: "/images/library.JPG",
     country: "Malaysia",
-    googleMap: "",
+    googleMap: "https://maps.app.goo.gl/ytGEHo6M3ZPFS4de7",
     place: "Rex KL",
     startDate: "19 Nov 2023",
     endDate: "19 Nov 2023",
